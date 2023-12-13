@@ -24,7 +24,7 @@
 
 ---
 ### :star: Tanner Waford
-- :apple: I am a Computer Science at the University of Louisville with a minor in Data Analytics.
+- :apple: I am a Computer Science student at the University of Louisville with a minor in Data Analytics.
 
 - :man_teacher: I enjoy teaching others new things which includes helping my friends with their homework assignments and working as a computer science tutor for my university!
 
